@@ -5,5 +5,4 @@ You can make snapshots by schedule or via REST API. Backup Daemon allows you to 
 
 For information regarding API see [Development Guide](./documentation/maintenance-guide/development-guide/README.md).
 
-Installation guide is provided with Consul helm chart and is available in [Consul Installation Guide](https://github.com/netcracker/qubership-consul/docs/installation.md#consul-backup-daemon)
-
+Installation guide is provided with Consul helm chart and is available in [Consul Installation Guide](https://github.com/Netcracker/qubership-consul/blob/main/docs/public/installation.md#backup-daemon)
